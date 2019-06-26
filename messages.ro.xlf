@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+D<?xml version="1.0" encoding="UTF-8" ?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="en" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="MainTitle" datatype="html">
         <source>SOTA Results and Summits Database</source>
-        <target>SOTAデータベース</target>
+        <target>Baza de Date SOTA</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">9</context>
@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="Menu" datatype="html">
         <source>Menu</source>
-        <target>Menu</target>
+        <target>Meniu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">3</context>
@@ -20,7 +20,7 @@
       </trans-unit>
       <trans-unit id="Home" datatype="html">
         <source>Home</source>
-        <target>Home</target>
+        <target>Acasa</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">9</context>
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="Login" datatype="html">
         <source>Login</source>
-        <target>Login</target>
+        <target>Autentificare</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">13</context>
@@ -40,7 +40,7 @@
       </trans-unit>
       <trans-unit id="ViewResults" datatype="html">
         <source>View Results</source>
-        <target>View Results</target>
+        <target>Vezi Rezultate</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">17</context>
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="Summits" datatype="html">
         <source>Summits</source>
-        <target>山岳</target>
+        <target>Varfuri</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">21</context>
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="SubmitLogs" datatype="html">
         <source>Submit Logs</source>
-        <target>Submit Logs</target>
+        <target>Adauga Log-uri</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">25</context>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="FactsAndFigures" datatype="html">
         <source>Facts and Figures</source>
-        <target>Facts and Figures</target>
+        <target>Date si Cifre</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">32</context>
@@ -72,7 +72,7 @@
       </trans-unit>
       <trans-unit id="ActivatorRollOfHonour" datatype="html">
         <source>Activator Roll of Honour</source>
-        <target>Activator Roll of Honour</target>
+        <target>Top Activatori</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">36</context>
@@ -80,7 +80,7 @@
       </trans-unit>
       <trans-unit id="ActivatorUniques" datatype="html">
         <source>Activator Uniques</source>
-        <target>Activator Uniques</target>
+        <target>Activatori - Varfuri Unice</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">40</context>
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="ChaserRollOfHonour" datatype="html">
         <source>Chaser Roll of Honour</source>
-        <target>チェイサー Roll of Honour</target>
+        <target>Top Vanatori</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">44</context>
@@ -96,7 +96,7 @@
       </trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
-        <target>チェイサー Uniques</target>
+        <target>Vanatori - Varfuri Unice</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">48</context>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="S2SRollOfHonour" datatype="html">
         <source>Summit to Summit Roll of Honour</source>
-        <target>Summit間 Roll of Honour</target>
+        <target>Top Varf la Varf</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">52</context>
@@ -112,7 +112,7 @@
       </trans-unit>
       <trans-unit id="SOTACompleteRoll" datatype="html">
         <source>SOTA Complete Roll of Honour</source>
-        <target>SOTA Complete Roll of Honour</target>
+        <target>Top SOTA</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">56</context>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="SWLRoll" datatype="html">
         <source>SWL Roll of Honour</source>
-        <target>SWL Roll of Honour</target>
+        <target>Top SWL</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">60</context>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="Challenges" datatype="html">
         <source>Challenges</source>
-        <target>Challenges</target>
+        <target>Provocari</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">64</context>
@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="MyResults" datatype="html">
         <source>My Results</source>
-        <target>My Results</target>
+        <target>Rezultatele Mele</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">68</context>
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="1st12mActivator" datatype="html">
         <source>1st 12m Challenge Activator Roll of Honour</source>
-        <target>1st 12m Challenge Activator Roll of Honour</target>
+        <target>Top Activatori "Provocarea 12m"</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">74</context>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="1st12mChaser" datatype="html">
         <source>1st 12m Challenge Chaser Roll of Honour</source>
-        <target>1st 12m Challenge Chaser Roll of Honour</target>
+        <target>Top Vanatori "provocarea 12m"</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">77</context>
@@ -160,7 +160,7 @@
       </trans-unit>
       <trans-unit id="1st610Activator" datatype="html">
         <source>1st 6m/10m Challenge Activator Roll of Honour</source>
-        <target>1st 6m/10m Challenge Activator Roll of Honour</target>
+        <target>Top Activatori "provocarea 6m/10m"</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">80</context>
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="1st610Chaser" datatype="html">
         <source>1st 6m/10m Challenge Chaser Roll of Honour</source>
-        <target>1st 6m/10m Challenge Chaser Roll of Honour</target>
+        <target>Top Vanatori "provocarea 6m/10m"</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">83</context>

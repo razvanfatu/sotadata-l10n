@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="TitlePageWelcome" datatype="html">
         <source>Welcome to the Worldwide Summits On The Air database service.</source>
-        <target></target>
+        <target>Bine ati venit la baza de date Varfuri de Munte in Eter</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">2</context>
@@ -356,7 +356,7 @@
       </trans-unit>
       <trans-unit id="TitlePageSOTA" datatype="html">
         <source>Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.</source>
-        <target>Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.</target>
+        <target>Summits on the Air (Varfuri de Munte in Eter) e un program care incurajeaza radioamatorii sa se bucure de natura si de mersul pe munte operand echipamentul radio de pe culmi.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">5</context>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="TitlePageAward" datatype="html">
         <source>An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.</source>
-        <target>An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.</target>
+        <target>Un sistem de premiere recunoaste efortul celor ce activeaza varfurile de munte, precum si celor ce fac QSO-uri cu activatorii. Se poate participa in program din orice colt al lumii.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">8</context>
@@ -372,7 +372,7 @@
       </trans-unit>
       <trans-unit id="TitlePageInfo" datatype="html">
         <source>For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>http://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target>For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>http://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <target>Pentru mai multe informatii despre programul SOTA din zona ta viziteaza website-ul principal, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>http://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">11</context>
@@ -380,7 +380,7 @@
       </trans-unit>
       <trans-unit id="SOTACompetition" datatype="html">
         <source>SOTA is not inherently a competitive activity, it&apos;s about individual aspirations and working towards a goal at your own pace. However, it can be fun to see how your progress compares with that of others, hence we publish our Honour Roll on the internet.</source>
-        <target>SOTA is not inherently a competitive activity, it&apos;s about individual aspirations and working towards a goal at your own pace. However, it can be fun to see how your progress compares with that of others, hence we publish our Honour Roll on the internet.</target>
+        <target>SOTA nu e o activitate competitiva ci e despre aspiratii individuale si despre a avansa catre un scop intr-un ritm propriu. Bineinteles, cateodata e interesant sa vezi cum progresezi in comparatie cu altii asa ca oricine poate vedea clasamentul public, pe internet.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">3</context>
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit id="csvUp1" datatype="html">
         <source>You can use this page to perform a bulk upload of many Activator Entries at once. This page is intended for more experienced users only.</source>
-        <target>You can use this page to perform a bulk upload of many Activator Entries at once. This page is intended for more experienced users only.</target>
+        <target>Poti sa folosesti pagina aceasta pentru a incarca datele activarilor en-gros. Aceasta pagina e recomandata utilizatorilor mai experimentati.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">5</context>
@@ -436,7 +436,7 @@
       </trans-unit>
       <trans-unit id="csvUp2" datatype="html">
         <source>If you have a large number of log entries you want to claim, this may be the fastest way of recording them</source>
-        <target>If you have a large number of log entries you want to claim, this may be the fastest way of recording them</target>
+        <target>Daca ai un numar mare de inregistrari in log pe care vrei sa le adaugi, aceasta e cea mai rapida metoda.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">10</context>
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="csvUp3" datatype="html">
         <source>If however you only have a dozen or less entries, it will probably be easier to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> web page.</source>
-        <target>If however you only have a dozen or less entries, it will probably be easier to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> web page.</target>
+        <target>Daca ai doar cateva legaturi in log, probabil e mai usor sa folosesti pagina <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Adauga Activare<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">13</context>
@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="Instructions" datatype="html">
         <source>Instructions</source>
-        <target>Instructions</target>
+        <target>Instructiuni</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">18</context>
